@@ -1,0 +1,5 @@
+num1 = input("Enter the first number: ")
+num2 = input("Enter the second number: ")
+#operation = input("Enter any operation:\n + - * / ")
+result = float(num1) + float(num2)
+print("result is: ", result)
